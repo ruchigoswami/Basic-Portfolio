@@ -32,7 +32,7 @@ background-color: #ffffff}
 }
  nav
  {float: right;
-  margin-right: 255px;
+  margin-right: 220px;
   position: relative;
 
 
@@ -81,8 +81,8 @@ a:hover
 }
 #aside
 {
-  height: 200px;
-  width: 310px;
+  height: 18px;
+  width: 270px;
   background-color: #ffffff;
   float:right;
   margin-top: 35px;
@@ -90,21 +90,24 @@ a:hover
   position: relative;
 }
 .righth1{
-  font-size: 27px;
-  height: 80px;
+  font-size: 24px;
+  height: 60px;
   color: #4aaaa5;
-  line-height: 2.4;
+  line-height: 2;
   border-bottom: 2px solid #dcdcdc;
-  margin-left: 33px;
-  margin-right: 30px;
+  margin-left: 30px;
+  margin-right: 20px;
   
   }
-
-.icons
+#icons
 {
-  float: left;
-  padding-left: 33px;
+  height: 70px;
+  width: 230px:;
+  text-align: center;
+  margin-left: 10px;
+  
 }
+
 
 #form
 {
