@@ -1,6 +1,10 @@
 *
 {padding:0;
 padding: 0;}
+#content
+{
+  width: 960px;
+}
 #wrapper
 {
 border-top: 1px solid gray;
@@ -84,7 +88,8 @@ a:hover
   margin-right: 30px;
   line-height: 1.8;
   color: #4aaaa5;
-  border-bottom: 3px solid #dcdcdc;  
+  border-bottom: 3px solid #dcdcdc;
+  width: 510px;  
 }
 #aside
 {
@@ -103,7 +108,7 @@ a:hover
   line-height: 2;
   border-bottom: 2px solid #dcdcdc;
   margin-left: 30px;
- 
+  
   
   }
 
@@ -132,6 +137,7 @@ tr
   padding-left: 20px;
   
 }
+
 #icons
 {
   height: 70px;
@@ -141,7 +147,6 @@ tr
   
 
 }
-
 footer
 {
   background-color: #666666;
